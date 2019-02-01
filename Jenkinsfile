@@ -22,7 +22,5 @@ pipeline {
                 }
             }
         }
-        stage('Build image') {
-        }
     }
 }
